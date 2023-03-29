@@ -10,11 +10,11 @@ Each car will move during their turn in any order you decide.  The first of the 
 
 Three Cars in race:
 
-Car1
+Toyota
 
-Car2
+Porsche
 
-Car3
+Lotus
 
 Racetrack elements:
 
